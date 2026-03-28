@@ -1,7 +1,8 @@
+flask
 numpy
-pandas
-pyarrow
-scikit-learn
 tensorflow
 joblib
-matplotlib
+scikit-learn
+flask-cors
+gunicorn
+h5py
